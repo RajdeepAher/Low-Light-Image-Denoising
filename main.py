@@ -32,7 +32,6 @@ def load_images(dir, name):
 
 test_low_dir = './test/low/'
 
-# Get lists of image file paths
 lo_t = load_images(test_low_dir, 'low_eval')
 
 def Preprocessing_pipe(inp_lo):

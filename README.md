@@ -30,7 +30,7 @@ This project focuses on enhancing low-light images by reducing noise and convert
 - **Mixed Precision Training**: Utilizes torch.cuda.amp.GradScaler for performance
 
 ## Results
-- Achieved a PSNR score of 25.10 after 5 epochs
+- Achieved a PSNR score of 26.25 after 5 epochs
 
 ![Results](images/results.png)
 *Figure 3: Image Enhancement Results*
